@@ -11,7 +11,6 @@ function fizzBuzz(num){
     }
     else{
         return num;
-    } // This closing brace is for the else block
-} // This closing brace is for the fizzBuzz function
-
+    }
+}
 module.exports = { fizzBuzz };
